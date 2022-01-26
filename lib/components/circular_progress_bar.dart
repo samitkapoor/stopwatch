@@ -16,7 +16,7 @@ class CircularProgressIndicatorWidget extends StatelessWidget {
         return CircularProgressIndicator.adaptive(
           value: controller.progressValue.value,
           backgroundColor: Colors.white10,
-          valueColor: const AlwaysStoppedAnimation<Color>(Colors.indigo),
+          valueColor: const AlwaysStoppedAnimation<Color>(Color(0xffE84C4F)),
           strokeWidth: 35,
         );
       }),

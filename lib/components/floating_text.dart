@@ -44,7 +44,7 @@ class _AnimatedTextState extends State<AnimatedText>
         'tap anywhere',
         style: TextStyle(
           fontFamily: 'OpenSans',
-          color: Colors.indigo,
+          color: Color(0xffE84C4F),
           fontSize: 25,
           letterSpacing: 1,
         ),
