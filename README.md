@@ -1,16 +1,19 @@
 # stopwatch
 
-A new Flutter project.
+This is a Stopwatch application made using Flutter.
 
-## Getting Started
+# Screenshots of the Project
 
-This project is a starting point for a Flutter application.
+Preview            |  
+:-------------------------:|
+![Screenshot_1643195562](https://user-images.githubusercontent.com/77121931/151153736-1974eb12-276b-4b42-996a-70509cecf196.png)| 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Packages Used: 
+get - https://pub.dev/packages/get <br />
+lottie - https://pub.dev/packages/lottie <br />
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Connect with me on:
+Linkedin: https://www.linkedin.com/in/samit-kapoor/ <br />
+Instagram: https://www.instagram.com/im_samit/ <br />
+Gmail: samitkapoor77@gmail.com
