@@ -6,7 +6,7 @@ This is a Stopwatch application made using Flutter.
 
 Preview            |  
 :-------------------------:|
-![Screenshot_1643195562](https://user-images.githubusercontent.com/77121931/151153736-1974eb12-276b-4b42-996a-70509cecf196.png)| 
+![Screenshot_1643197133](https://user-images.githubusercontent.com/77121931/151156993-32ca8a22-fb94-4054-899d-c3f397161f52.png)| 
 
 
 # Packages Used: 
