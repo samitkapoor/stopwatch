@@ -40,8 +40,8 @@ class TimerController extends GetxController {
   }
 
   void resetTimer() {
-    hours.value = minutes.value = seconds.value = 0;
-    progressValue.value = 0;
+    hours.value = minutes.value = seconds.value = totalSeconds.value = 0;
+    progressValue.value = 0.0;
     timer?.cancel();
     update();
   }
